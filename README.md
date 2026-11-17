@@ -39,7 +39,7 @@ The model uses a Convolutional Neural Network consisting of :
 # How to Run 
 1. Clone or download this repository
 2. Install the required dependencies :
-pip install -r requirements.txt 
+pip install torch torchvision numpy pillow
 3. Open cnn.ipynb in VS Code or Jupyter Notebook
 4. Select your Python kernel
 5. Run all cells
