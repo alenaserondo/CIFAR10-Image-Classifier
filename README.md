@@ -45,4 +45,7 @@ pip install -r requirements.txt
 5. Run all cells
 
 # Results 
-TBC 
+- Achieved approximately 67.54% accuracy on the CIFAR-10 test dataset.
+- Tested the trained model on additional external images.
+- The model struggled to correctly classify many external images, often producing predictions with low confidence.
+- This highlighted the challenges of generalisation when applying a model to images outside its original training dataset. 
